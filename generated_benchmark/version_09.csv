@@ -1,0 +1,64 @@
+movieId,title,genres,userId,rating,timestamp
+6711,Lost in Translation (2003),Comedy|Drama|Romance,300,5.0,1425352017
+3624,Shanghai Noon (2000),Action|Adventure|Comedy|Western,480,1.5,1179164215
+46976,Stranger than Fiction (2006),Comedy|Drama|Fantasy|Romance,227,5.0,1447210720
+2353,Enemy of the State (1998),Action|Thriller,597,2.0,941729133
+457,"Fugitive, The (1993)",Thriller,292,4.0,990062464
+1246,Dead Poets Society (1989),Drama,42,5.0,996214893
+539,Sleepless in Seattle (1993),Comedy|Drama|Romance,307,2.0,1186161019
+52287,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi,104,4.0,1299188638
+1244,Manhattan (1979),Comedy|Drama|Romance,177,4.0,1435534927
+2402,Rambo: First Blood Part II (1985),Action|Adventure|Thriller,288,1.0,978466832
+991,Michael Collins (1996),Drama,599,3.5,1519233999
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,177,4.5,1435533571
+1690,Alien: Resurrection (1997),Action|Horror|Sci-Fi,599,3.0,1498525341
+5574,"Transporter, The (2002)",Action|Crime,414,3.0,1079920437
+122926,Untitled Spider-Man Reboot (2017),Action|Adventure|Fantasy,596,4.0,1535709021
+5449,Mr. Deeds (2002),Comedy|Romance,89,2.0,1520408412
+185,"Net, The (1995)",Action|Crime|Thriller,588,1.0,839316215
+838,Emma (1996),Comedy|Drama|Romance,57,3.0,965797105
+2858,American Beauty (1999),Drama|Romance,370,3.5,1159162710
+3578,Gladiator (2000),Action|Adventure|Drama,279,3.5,1506394425
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,328,4.0,1494210806
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,483,4.5,1181494857
+59731,"Bigger, Stronger, Faster* (2008)",Documentary,68,3.5,1240092738
+47122,John Tucker Must Die (2006),Comedy|Romance,73,4.0,1464196932
+131023,That Sugar Film (2014),Documentary,119,4.5,1459195846
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,330,1.5,1285905245
+1373,Star Trek V: The Final Frontier (1989),Action|Sci-Fi,228,4.0,1363222624
+908,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,57,5.0,965795827
+532,Serial Mom (1994),Comedy|Crime|Horror,226,3.0,1095663331
+236,French Kiss (1995),Action|Comedy|Romance,353,3.0,831939775
+5902,Adaptation (2002),Comedy|Drama|Romance,271,4.5,1234302378
+1429,First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996),Action|Adventure|Comedy|Thriller,559,3.0,865096099
+2300,"Producers, The (1968)",Comedy,175,4.0,1234188170
+2498,My Favorite Martian (1999),Comedy|Sci-Fi,274,2.0,1172031001
+735,Cemetery Man (Dellamorte Dellamore) (1994),Horror,603,4.0,963178124
+93326,This Means War (2012),Action|Comedy|Romance,564,2.5,1478451905
+1092,Basic Instinct (1992),Crime|Mystery|Thriller,453,3.0,1005968643
+6615,Freddy vs. Jason (2003),Action|Horror|Thriller,380,4.0,1494071605
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,395,4.0,841503580
+55995,Beowulf (2007),Action|Adventure|Animation|Fantasy|IMAX,274,2.0,1197014884
+224,Don Juan DeMarco (1995),Comedy|Drama|Romance,604,3.0,832080293
+2858,American Beauty (1999),Drama|Romance,357,3.5,1348611800
+5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,223,4.0,1226209834
+991,Michael Collins (1996),Drama,313,3.0,1030558421
+64839,"Wrestler, The (2008)",Drama,489,4.5,1332774676
+6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,560,4.0,1469648076
+50658,49 Up (2005),Documentary,600,4.0,1237708787
+3527,Predator (1987),Action|Sci-Fi|Thriller,580,3.5,1167792670
+12,Dracula: Dead and Loving It (1995),Comedy|Horror,273,1.0,835860711
+8984,Ocean's Twelve (2004),Action|Comedy|Crime|Thriller,274,2.0,1173041211
+1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,76,4.5,1439166069
+377,Speed (1994),Action|Romance|Thriller,181,3.0,845469500
+2142,"American Tail: Fievel Goes West, An (1991)",Adventure|Animation|Children|Musical|Western,525,3.5,1476480476
+2858,American Beauty (1999),Drama|Romance,316,4.0,1111493424
+2433,"Civil Action, A (1998)",Drama,265,4.0,965318061
+34530,Deuce Bigalow: European Gigolo (2005),Comedy,307,2.0,1186259536
+4643,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi,318,3.5,1256504737
+2728,Spartacus (1960),Action|Drama|Romance|War,144,3.5,1136813082
+4034,Traffic (2000),Crime|Drama|Thriller,287,3.5,1110229899
+2804,"Christmas Story, A (1983)",Children|Comedy,474,4.0,978575760
+25,Leaving Las Vegas (1995),Drama|Romance,474,3.5,1127143175
+177593,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,338,5.0,1530148460
+55245,Good Luck Chuck (2007),Comedy|Romance,564,3.0,1478454040

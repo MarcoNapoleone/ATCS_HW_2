@@ -1,0 +1,12 @@
+{
+  "jaccard":{
+    "precision":0.3333333333,
+    "recall":0.75,
+    "f1_score":0.4615384615
+  },
+  "lsh":{
+    "precision":0.6666666667,
+    "recall":0.5,
+    "f1_score":0.5714285714
+  }
+}

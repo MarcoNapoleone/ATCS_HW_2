@@ -1,0 +1,59 @@
+movieId,title,genres,userId,rating,timestamp
+1203,12 Angry Men (1957),Drama,338,5.0,1530148436
+4326,Mississippi Burning (1988),Crime|Drama|Thriller,414,3.0,992878249
+56174,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX,249,4.0,1353801085
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,247,4.5,1467644278
+150,Apollo 13 (1995),Adventure|Drama|IMAX,254,4.0,1180446349
+3551,Marathon Man (1976),Crime|Drama|Thriller,202,4.0,974924722
+5304,"Rome, Open City (a.k.a. Open City) (Roma, città aperta) (1945)",Drama|War,606,4.0,1171500642
+6178,"Patch of Blue, A (1965)",Drama|Romance,474,4.0,1077028739
+1586,G.I. Jane (1997),Action|Drama,600,1.0,1237759820
+2857,Yellow Submarine (1968),Adventure|Animation|Comedy|Fantasy|Musical,552,4.0,1112151427
+3147,"Green Mile, The (1999)",Crime|Drama,24,4.5,1458941985
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,62,1.0,1525554344
+30749,Hotel Rwanda (2004),Drama|War,381,5.0,1164383477
+70565,"Goods: Live Hard, Sell Hard, The (2009)",Comedy,111,4.0,1518640625
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,282,4.0,1378490687
+54881,"King of Kong, The (2007)",Documentary,318,4.0,1424546959
+450,With Honors (1994),Comedy|Drama,436,3.0,833531474
+3159,Fantasia 2000 (1999),Animation|Children|Musical|IMAX,57,3.0,972175038
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,524,4.0,851608745
+1625,"Game, The (1997)",Drama|Mystery|Thriller,198,2.0,1034139049
+31225,Coach Carter (2005),Drama,414,3.0,1216145643
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,137,4.5,1204859688
+434,Cliffhanger (1993),Action|Adventure|Thriller,126,3.0,845925690
+1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,477,4.5,1200939813
+150,Apollo 13 (1995),Adventure|Drama|IMAX,574,4.0,834634383
+1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,528,4.0,1391736817
+5417,"Fast Runner, The (Atanarjuat) (2001)",Drama|Fantasy,64,3.5,1161530687
+1272,Patton (1970),Drama|War,524,4.0,851609711
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,182,4.0,1063289621
+3755,"Perfect Storm, The (2000)",Drama|Thriller,333,3.0,965671624
+65802,Paul Blart: Mall Cop (2009),Action|Comedy|Crime,484,4.0,1342368986
+34319,"Island, The (2005)",Action|Sci-Fi|Thriller,608,4.0,1147209760
+3793,X-Men (2000),Action|Adventure|Sci-Fi,183,2.0,992331435
+1968,"Breakfast Club, The (1985)",Comedy|Drama,480,3.5,1179177782
+61323,Burn After Reading (2008),Comedy|Crime|Drama,41,3.0,1458938898
+587,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,379,3.0,847397499
+36,Dead Man Walking (1995),Crime|Drama,372,3.0,874414994
+493,Menace II Society (1993),Action|Crime|Drama,414,4.0,961515781
+170,Hackers (1995),Action|Adventure|Crime|Thriller,182,2.5,1054782433
+1208,Apocalypse Now (1979),Action|Drama|War,385,4.0,865026336
+648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,219,4.5,1194681052
+5502,Signs (2002),Horror|Sci-Fi|Thriller,64,4.5,1161521125
+2890,Three Kings (1999),Action|Adventure|Comedy|Drama|War,55,4.0,1312747625
+500,Mrs. Doubtfire (1993),Comedy|Drama,357,3.5,1348612073
+4448,"Score, The (2001)",Action|Drama,198,2.0,1039796861
+90809,Tomboy (2011),Drama,509,3.0,1436027569
+2617,"Mummy, The (1999)",Action|Adventure|Comedy|Fantasy|Horror|Thriller,140,2.0,944488906
+80463,"Social Network, The (2010)",Drama,111,3.5,1516140981
+14,Nixon (1995),Drama,437,3.0,859721080
+112852,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi,68,4.5,1526947558
+3977,Charlie's Angels (2000),Action|Comedy,111,3.5,1516140878
+1222,Full Metal Jacket (1987),Drama|War,288,3.0,976138178
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,387,2.5,1094938228
+902,Breakfast at Tiffany's (1961),Drama|Romance,315,4.0,939920661
+8501,"Hitcher, The (1986)",Action|Thriller,380,3.5,1508436902
+45499,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller,220,4.0,1241812849
+85414,Source Code (2011),Action|Drama|Mystery|Sci-Fi|Thriller,18,3.5,1478641446
+1215,Army of Darkness (1993),Action|Adventure|Comedy|Fantasy|Horror,534,4.5,1459788852

@@ -1,0 +1,235 @@
+movieId,title,genres,userId,rating,timestamp
+1344,Cape Fear (1962),Crime|Drama|Thriller,313,4.0,1030476305
+72378,2012 (2009),Action|Drama|Sci-Fi|Thriller,274,2.0,1288172563
+107314,Oldboy (2013),Action|Drama|Mystery,305,2.5,1519506679
+8861,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller,480,2.0,1179166241
+2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,101,4.0,968441005
+79,"Juror, The (1996)",Drama|Thriller,265,2.0,965318627
+26,Othello (1995),Drama,6,4.0,845555362
+110,Braveheart (1995),Action|Drama|War,608,4.0,1117162428
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,560,3.5,1469647901
+2723,Mystery Men (1999),Action|Comedy|Fantasy,19,5.0,965706484
+159858,The Conjuring 2 (2016),Horror,306,4.0,1518327380
+8454,Luna Papa (1999),Comedy|Drama|Fantasy,606,3.5,1171502042
+104841,Gravity (2013),Action|Sci-Fi|IMAX,514,3.0,1533872356
+2376,"View to a Kill, A (1985)",Action|Adventure|Thriller,292,4.0,1332678611
+3682,Magnum Force (1973),Action|Crime|Drama|Thriller,292,4.5,1265679667
+4351,Point Break (1991),Action|Crime|Thriller,599,3.0,1498524542
+58295,"Bank Job, The (2008)",Action|Crime|Thriller,522,4.5,1254573525
+48322,Jackass Number Two (2006),Comedy|Documentary,298,3.0,1447599713
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,480,4.5,1179177674
+97858,Mental (2012),Comedy|Drama,448,2.0,1387894354
+380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,178,4.0,1164355018
+318,"Shawshank Redemption, The (1994)",Crime|Drama,167,5.0,1154722100
+82202,"Tourist, The (2010)",Drama|Thriller,414,3.0,1511537252
+3156,Bicentennial Man (1999),Drama|Romance|Sci-Fi,380,4.0,1494804502
+653,Dragonheart (1996),Action|Adventure|Fantasy,240,5.0,849123370
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,116,4.0,1337199672
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,359,1.5,1198112228
+1221,"Godfather: Part II, The (1974)",Crime|Drama,372,5.0,874415199
+1848,"Borrowers, The (1997)",Adventure|Children|Comedy|Fantasy,19,2.0,965704331
+63113,Quantum of Solace (2008),Action|Adventure|Thriller,122,4.5,1461561761
+553,Tombstone (1993),Action|Drama|Western,195,4.0,974706168
+39,Clueless (1995),Comedy|Romance,32,3.0,856737205
+1394,Raising Arizona (1987),Comedy,561,4.0,1491092758
+4848,Mulholland Drive (2001),Crime|Drama|Film-Noir|Mystery|Thriller,103,5.0,1440773368
+104841,Gravity (2013),Action|Sci-Fi|IMAX,599,3.0,1498528388
+106002,Ender's Game (2013),Action|Adventure|Sci-Fi|IMAX,610,3.5,1493845652
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,288,3.0,985626767
+1080,Monty Python's Life of Brian (1979),Comedy,63,5.0,1443199898
+4848,Mulholland Drive (2001),Crime|Drama|Film-Noir|Mystery|Thriller,339,5.0,1460686055
+381,When a Man Loves a Woman (1994),Drama|Romance,474,2.5,1087832502
+31685,Hitch (2005),Comedy|Romance,34,2.0,1166464153
+27808,Spanglish (2004),Comedy|Drama|Romance,298,2.5,1447598993
+8641,Anchorman: The Legend of Ron Burgundy (2004),Comedy,73,3.5,1464197978
+4019,Finding Forrester (2000),Drama,195,4.0,978994367
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,528,5.0,1391736163
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,76,3.5,1439167669
+2605,Entrapment (1999),Crime|Thriller,230,3.5,1196304139
+7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,598,5.0,1430616909
+122890,Warcraft (2016),Action|Adventure|Fantasy,560,3.5,1469677869
+96079,Skyfall (2012),Action|Adventure|Thriller|IMAX,212,4.0,1523216972
+5072,Metropolis (2001),Animation|Sci-Fi,608,4.5,1117503329
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,560,4.0,1469647971
+112175,How to Train Your Dragon 2 (2014),Action|Adventure|Animation,551,3.5,1504926160
+50872,Ratatouille (2007),Animation|Children|Drama,525,3.5,1476478189
+7319,Club Dread (2004),Comedy|Horror,448,3.0,1145127030
+1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,91,5.0,1112713446
+4014,Chocolat (2000),Drama|Romance,596,3.5,1535833814
+6952,Gothika (2003),Horror|Thriller,125,3.0,1474415234
+3093,McCabe & Mrs. Miller (1971),Drama|Western,572,5.0,945890357
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,169,5.0,1059427905
+474,In the Line of Fire (1993),Action|Thriller,288,3.0,978465565
+2380,Police Academy 3: Back in Training (1986),Comedy|Crime,517,0.5,1487958246
+3752,"Me, Myself & Irene (2000)",Adventure|Comedy,608,4.0,1117504954
+1199,Brazil (1985),Fantasy|Sci-Fi,440,4.5,1237569063
+2028,Saving Private Ryan (1998),Action|Drama|War,169,5.0,1078284565
+8464,Super Size Me (2004),Comedy|Documentary|Drama,420,4.5,1218207751
+56587,"Bucket List, The (2007)",Comedy|Drama,68,3.0,1261624092
+377,Speed (1994),Action|Romance|Thriller,81,3.0,845299844
+25,Leaving Las Vegas (1995),Drama|Romance,112,2.5,1513989973
+39183,Brokeback Mountain (2005),Drama|Romance,256,2.0,1446580616
+48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,509,3.5,1435993404
+3471,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi,137,3.0,1204859953
+42761,Casper Meets Wendy (1998),Adventure|Children|Comedy|Fantasy,89,4.5,1520409141
+107159,Zatoichi and the Chest of Gold (Zatôichi senryô-kubi) (Zatôichi 6) (1964),Action|Drama,105,4.0,1446610642
+6953,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,68,2.5,1158533556
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,279,4.0,1506394166
+6957,Bad Santa (2003),Comedy|Crime,307,3.5,1186085807
+5378,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX,288,3.5,1054568537
+51662,300 (2007),Action|Fantasy|War|IMAX,352,4.0,1493674121
+95167,Brave (2012),Action|Adventure|Animation|Children,249,4.0,1356440099
+2261,One Crazy Summer (1986),Comedy,474,2.0,978576252
+3556,"Virgin Suicides, The (1999)",Drama|Romance,580,5.0,1167673452
+111362,X-Men: Days of Future Past (2014),Action|Adventure|Sci-Fi,380,5.0,1493474096
+44191,V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX,593,4.0,1181007785
+390,Faster Pussycat! Kill! Kill! (1965),Action|Crime|Drama,405,4.0,1295916262
+2018,Bambi (1942),Animation|Children|Drama,517,4.0,1487953729
+99106,"Guilt Trip, The (2012)",Comedy,73,1.5,1464198772
+858,"Godfather, The (1972)",Crime|Drama,238,3.0,1007931691
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,57,5.0,965796031
+1392,Citizen Ruth (1996),Comedy|Drama,477,4.5,1201166879
+97306,Seven Psychopaths (2012),Comedy|Crime,599,3.0,1498528332
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,259,4.0,1146845654
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,368,4.0,971273072
+1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,248,4.0,1534591649
+99992,Shadow Dancer (2012),Crime|Drama|Thriller,448,3.0,1374953846
+2513,Pet Sematary (1989),Horror,80,4.0,1377307812
+1203,12 Angry Men (1957),Drama,567,4.5,1525283592
+778,Trainspotting (1996),Comedy|Crime|Drama,387,4.5,1094875332
+2700,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical,187,4.5,1161863956
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,288,4.0,975691813
+1288,This Is Spinal Tap (1984),Comedy,330,4.5,1285904004
+448,Fearless (1993),Drama,602,3.0,840876417
+61132,Tropic Thunder (2008),Action|Adventure|Comedy|War,382,5.0,1515161977
+2450,Howard the Duck (1986),Adventure|Comedy|Sci-Fi,477,0.5,1200944943
+1093,"Doors, The (1991)",Drama,606,4.0,1171230300
+494,Executive Decision (1996),Action|Adventure|Thriller,577,3.0,945967440
+1546,Schizopolis (1996),Comedy,182,3.5,1073397357
+653,Dragonheart (1996),Action|Adventure|Fantasy,529,4.0,855583362
+1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,182,3.5,1054781212
+7306,"Herod's Law (Ley de Herodes, La) (2000)",Comedy|Crime|Mystery,432,3.0,1315243798
+104,Happy Gilmore (1996),Comedy,484,4.0,1342368965
+2023,"Godfather: Part III, The (1990)",Crime|Drama|Mystery|Thriller,28,3.5,1234516183
+3253,Wayne's World (1992),Comedy,225,4.0,949111556
+4047,Gettysburg (1993),Drama|War,140,4.0,1055092243
+70286,District 9 (2009),Mystery|Sci-Fi|Thriller,125,4.0,1474481068
+31427,Hide and Seek (2005),Horror|Mystery|Thriller,288,2.5,1126184296
+2009,Soylent Green (1973),Drama|Mystery|Sci-Fi|Thriller,288,3.0,976139366
+90405,In Time (2011),Crime|Sci-Fi|Thriller,256,3.5,1446581429
+111443,Chef (2014),Comedy,323,2.5,1422640855
+118900,Wild (2014),Drama,41,4.0,1458995083
+441,Dazed and Confused (1993),Comedy,165,3.0,1046741288
+156371,Everybody Wants Some (2016),Comedy,125,4.0,1474469682
+2947,Goldfinger (1964),Action|Adventure|Thriller,156,2.0,946800308
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,129,2.5,1167376533
+1080,Monty Python's Life of Brian (1979),Comedy,303,1.0,1053302847
+4103,Empire of the Sun (1987),Action|Adventure|Drama|War,414,5.0,991144129
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,325,4.0,1039396494
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,189,4.0,1439465091
+592,Batman (1989),Action|Crime|Thriller,14,2.0,835440976
+8949,Sideways (2004),Comedy|Drama|Romance,70,5.0,1355198245
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,16,4.0,1377476781
+86190,Hanna (2011),Action|Adventure|Mystery|Thriller,18,3.5,1456924897
+185,"Net, The (1995)",Action|Crime|Thriller,340,3.0,848666415
+3,Grumpier Old Men (1995),Comedy|Romance,456,3.0,856883349
+5,Father of the Bride Part II (1995),Comedy,150,3.0,854203124
+4270,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller,68,3.5,1158533297
+4128,"Lost Boys, The (1987)",Comedy|Horror|Thriller,221,3.5,1111177894
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,355,5.0,974965256
+3101,Fatal Attraction (1987),Drama|Thriller,528,2.5,1391734371
+2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,42,4.0,996262677
+78174,Sex and the City 2 (2010),Comedy|Drama|Romance,111,1.5,1516153265
+5060,M*A*S*H (a.k.a. MASH) (1970),Comedy|Drama|War,27,2.0,962686409
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,590,4.0,1258416644
+858,"Godfather, The (1972)",Crime|Drama,152,5.0,1450572429
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,51,5.0,1230929240
+2553,Village of the Damned (1960),Horror|Sci-Fi|Thriller,313,4.0,1030474757
+122924,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,448,2.0,1498162906
+7569,You Only Live Twice (1967),Action|Adventure|Sci-Fi|Thriller,21,4.5,1403460592
+2302,My Cousin Vinny (1992),Comedy,239,3.0,1221158808
+119141,The Interview (2014),Action|Comedy,564,4.5,1481817709
+141131,Guardians (2016),(no genres listed),596,2.5,1535712067
+2735,"Golden Child, The (1986)",Action|Adventure|Comedy|Fantasy|Mystery,42,4.0,996260113
+2329,American History X (1998),Crime|Drama,226,4.5,1095663236
+923,Citizen Kane (1941),Drama|Mystery,489,3.5,1335869037
+77561,Iron Man 2 (2010),Action|Adventure|Sci-Fi|Thriller|IMAX,298,3.5,1447516876
+51662,300 (2007),Action|Fantasy|War|IMAX,213,3.5,1316196753
+608,Fargo (1996),Comedy|Crime|Drama|Thriller,453,4.0,972622467
+117590,Horrible Bosses 2 (2014),Comedy|Crime,89,4.0,1520408746
+3699,Starman (1984),Adventure|Drama|Romance|Sci-Fi,469,4.0,965335435
+2580,Go (1999),Comedy|Crime,39,5.0,974789690
+3107,Backdraft (1991),Action|Drama,140,3.0,949667371
+80590,Wall Street: Money Never Sleeps (2010),Drama,448,2.0,1322329754
+881,First Kid (1996),Children|Comedy,6,3.0,845556340
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,607,4.0,963080125
+1242,Glory (1989),Drama|War,137,4.0,1204859745
+527,Schindler's List (1993),Drama|War,445,3.0,1454621684
+2,Jumanji (1995),Adventure|Children|Fantasy,226,3.0,1095662788
+2539,Analyze This (1999),Comedy,535,3.0,939029647
+435,Coneheads (1993),Comedy|Sci-Fi,75,1.0,1158967085
+69784,Brüno (Bruno) (2009),Comedy,122,4.5,1461562686
+2174,Beetlejuice (1988),Comedy|Fantasy,600,4.5,1237858294
+1663,Stripes (1981),Comedy|War,42,4.0,996258272
+3273,Scream 3 (2000),Comedy|Horror|Mystery|Thriller,452,4.0,1013398044
+3363,American Graffiti (1973),Comedy|Drama,51,4.5,1230929491
+527,Schindler's List (1993),Drama|War,437,5.0,859721361
+59369,Taken (2008),Action|Crime|Drama|Thriller,599,2.5,1498518401
+6365,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,428,3.0,1111489458
+1702,Flubber (1997),Children|Comedy|Fantasy,382,3.5,1515161690
+66171,Push (2009),Sci-Fi|Thriller,599,2.5,1519535068
+4979,"Royal Tenenbaums, The (2001)",Comedy|Drama,160,4.5,1058456459
+586,Home Alone (1990),Children|Comedy,232,3.0,1218167353
+6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,606,4.5,1171235842
+912,Casablanca (1942),Drama|Romance,103,5.0,1431954433
+2,Jumanji (1995),Adventure|Children|Fantasy,68,2.5,1158532776
+3863,"Cell, The (2000)",Drama|Horror|Thriller,312,3.0,1043176884
+2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,62,4.5,1521822456
+204,Under Siege 2: Dark Territory (1995),Action,16,2.0,1377476617
+916,Roman Holiday (1953),Comedy|Drama|Romance,186,5.0,1031073542
+3489,Hook (1991),Adventure|Comedy|Fantasy,141,4.0,1513132169
+5804,"Santa Clause 2, The (2002)",Children|Comedy|Fantasy|Romance,274,2.5,1172026285
+33164,House of Wax (2005),Horror|Thriller,387,2.0,1183352891
+3823,Wonderland (1999),Drama,410,4.0,990728301
+122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,586,5.0,1529899134
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,34,3.0,1162050482
+177,Lord of Illusions (1995),Horror,51,4.0,1230930634
+54787,Death Sentence (2007),Drama|Thriller,351,3.5,1329655779
+3029,Nighthawks (1981),Action|Drama,79,3.0,975281975
+4135,"Monster Squad, The (1987)",Adventure|Comedy|Horror,562,5.0,1368896069
+3385,Volunteers (1985),Comedy,514,3.0,1533946372
+1408,"Last of the Mohicans, The (1992)",Action|Romance|War|Western,183,4.0,992331493
+4226,Memento (2000),Mystery|Thriller,581,4.5,1447007261
+110,Braveheart (1995),Action|Drama|War,344,4.5,1420497375
+56174,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX,29,4.0,1309069586
+231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,43,3.0,848993694
+1220,"Blues Brothers, The (1980)",Action|Comedy|Musical,599,3.5,1498501792
+5568,Johnny Dangerously (1984),Comedy,479,2.0,1039362916
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,159,4.0,1508641095
+377,Speed (1994),Action|Romance|Thriller,428,2.5,1111525992
+104944,Short Term 12 (2013),Drama,567,3.5,1525285966
+1084,Bonnie and Clyde (1967),Crime|Drama,275,5.0,1049078103
+527,Schindler's List (1993),Drama|War,346,3.5,1125859184
+60487,"It's the Great Pumpkin, Charlie Brown (1966)",Animation|Children|Comedy,307,4.0,1224508589
+3272,Bad Lieutenant (1992),Crime|Drama,368,3.0,975828314
+185,"Net, The (1995)",Action|Crime|Thriller,201,3.0,941211804
+55276,Michael Clayton (2007),Drama|Thriller,305,5.0,1460136738
+2431,Patch Adams (1998),Comedy|Drama,472,4.0,1345842873
+191,"Scarlet Letter, The (1995)",Drama|Romance,414,2.0,961518812
+161,Crimson Tide (1995),Drama|Thriller|War,38,4.0,841341249
+164179,Arrival (2016),Sci-Fi,279,4.0,1506395001
+2682,Limbo (1999),Drama,140,4.0,977403325
+142448,Everest (2015),Adventure|Drama|Thriller,305,3.0,1460134242
+1963,Take the Money and Run (1969),Comedy|Crime,217,1.0,955943627
+231,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,135,2.0,1009691066
+3093,McCabe & Mrs. Miller (1971),Drama|Western,600,3.5,1237850998
+1449,Waiting for Guffman (1996),Comedy,313,5.0,1030557292
+4034,Traffic (2000),Crime|Drama|Thriller,474,4.5,1081177376
+186,Nine Months (1995),Comedy|Romance,438,3.0,1105667014
+106918,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,564,3.5,1478453956
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,416,4.5,1187495659
+481,Kalifornia (1993),Drama|Thriller,66,2.0,1113190302
+1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,213,4.0,1316195644
+117590,Horrible Bosses 2 (2014),Comedy|Crime,448,2.0,1446908340
+4816,Zoolander (2001),Comedy,542,1.5,1163388683
+60471,Rogue (2007),Action|Adventure|Horror|Sci-Fi|Thriller,610,3.5,1493848660

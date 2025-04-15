@@ -1,0 +1,93 @@
+movieId,title,genres,userId,rating,timestamp
+47629,The Queen (2006),Drama,322,4.0,1217675374
+1429,First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996),Action|Adventure|Comedy|Thriller,57,4.0,969754408
+82854,Gulliver's Travels (2010),Adventure|Comedy|Fantasy,292,1.5,1307317730
+76743,Mortadelo & Filemon: The Big Adventure (La gran aventura de Mortadelo y Filemón) (2003),Action|Adventure|Comedy,534,3.5,1459793411
+1438,Dante's Peak (1997),Action|Thriller,160,1.0,971115791
+96975,LOL (2012),Comedy|Drama|Romance,563,3.5,1441845567
+2657,"Rocky Horror Picture Show, The (1975)",Comedy|Horror|Musical|Sci-Fi,168,4.5,1306793285
+58301,Funny Games U.S. (2007),Drama|Thriller,125,5.0,1474294530
+85354,Mesrine: Public Enemy #1 (L'ennemi public n°1) (2008),Action|Crime,168,4.5,1306801946
+1485,Liar Liar (1997),Comedy,480,2.5,1179178088
+6333,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller,365,3.0,1488332478
+2384,Babe: Pig in the City (1998),Adventure|Children|Drama,290,3.0,974942632
+1702,Flubber (1997),Children|Comedy|Fantasy,219,1.5,1194740286
+58315,"Love Guru, The (2008)",Comedy,484,3.5,1342368157
+3476,Jacob's Ladder (1990),Horror|Mystery,599,4.0,1498499581
+1285,Heathers (1989),Comedy,606,4.5,1171325666
+542,Son in Law (1993),Comedy|Drama|Romance,19,2.0,965707983
+4158,Monkeybone (2001),Animation|Comedy|Fantasy,480,3.0,1179166456
+1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,215,3.0,1260909012
+370,Naked Gun 33 1/3: The Final Insult (1994),Action|Comedy,257,3.5,1141625613
+72011,Up in the Air (2009),Drama|Romance,249,4.0,1346847656
+122916,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,25,4.5,1535470504
+1747,Wag the Dog (1997),Comedy,217,3.0,955943917
+1445,McHale's Navy (1997),Comedy|War,414,2.0,961439332
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy|IMAX,205,4.0,1519900899
+34542,Grizzly Man (2005),Documentary,448,3.5,1239464894
+5995,"Pianist, The (2002)",Drama|War,18,4.5,1455735416
+2000,Lethal Weapon (1987),Action|Comedy|Crime|Drama,249,4.0,1395846463
+249,Immortal Beloved (1994),Drama|Romance,480,4.0,1179162338
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,17,5.0,1305696823
+3861,"Replacements, The (2000)",Comedy,292,3.0,990062211
+61132,Tropic Thunder (2008),Action|Adventure|Comedy|War,307,4.0,1227537609
+160567,Mike & Dave Need Wedding Dates (2016),Comedy,125,3.5,1480790359
+89745,"Avengers, The (2012)",Action|Adventure|Sci-Fi|IMAX,153,0.5,1525552984
+809,Fled (1996),Action|Adventure,217,2.0,955941990
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,76,2.5,1439165692
+6662,"Pink Panther, The (1963)",Comedy|Crime,36,3.0,1100803749
+4008,Born on the Fourth of July (1989),Drama|War,555,4.0,978744598
+2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,19,3.0,965709068
+48997,Perfume: The Story of a Murderer (2006),Crime|Drama|Thriller,132,3.0,1174935289
+8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,380,4.0,1493423255
+329,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi,43,5.0,848993718
+1591,Spawn (1997),Action|Adventure|Sci-Fi|Thriller,294,1.0,966634305
+2176,Rope (1948),Crime|Drama|Thriller,606,4.0,1171326585
+71518,Whip It (2009),Comedy|Drama,298,1.0,1447517377
+45722,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,332,3.5,1352673212
+5989,Catch Me If You Can (2002),Crime|Drama,226,4.5,1162428551
+1805,Wild Things (1998),Crime|Drama|Mystery|Thriller,51,0.5,1230929609
+58047,"Definitely, Maybe (2008)",Comedy|Drama|Romance,306,3.0,1518380295
+2289,"Player, The (1992)",Comedy|Crime|Drama,414,4.0,961438151
+1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,330,2.5,1285905102
+4732,Bubble Boy (2001),Comedy,599,1.5,1519178437
+5956,Gangs of New York (2002),Crime|Drama,249,4.5,1347318417
+6863,School of Rock (2003),Comedy|Musical,414,3.5,1079291855
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,112,5.0,1442535842
+71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",Horror|Thriller,232,2.0,1287619587
+4022,Cast Away (2000),Drama,344,3.0,1420497208
+2089,"Rescuers Down Under, The (1990)",Adventure|Animation|Children,274,3.0,1172269369
+288,Natural Born Killers (1994),Action|Crime|Thriller,18,4.0,1455617466
+2501,October Sky (1999),Drama,103,4.5,1431968208
+49793,We Are Marshall (2006),Drama,414,4.0,1167845279
+376,"River Wild, The (1994)",Action|Thriller,68,3.0,1158534489
+1219,Psycho (1960),Crime|Horror,168,4.0,1306801603
+79695,"Expendables, The (2010)",Action|Adventure|Thriller,222,2.0,1391353867
+1616,"Peacemaker, The (1997)",Action|Thriller|War,597,4.0,941729576
+1500,Grosse Pointe Blank (1997),Comedy|Crime|Romance,294,4.0,966595113
+919,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical,186,5.0,1031079112
+8977,Alexander (2004),Action|Adventure|Drama|War,28,2.5,1234516433
+136598,Vacation (2015),Adventure|Comedy,365,3.5,1489716230
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,348,5.0,1378850645
+448,Fearless (1993),Drama,414,3.0,1036505560
+7127,Run (1991),Action|Drama|Thriller,66,3.5,1113190384
+1036,Die Hard (1988),Action|Crime|Thriller,226,3.0,1095662467
+3398,"Muppets Take Manhattan, The (1984)",Children|Comedy|Musical,294,3.0,966595946
+1292,Being There (1979),Comedy|Drama,469,5.0,965336905
+208,Waterworld (1995),Action|Adventure|Sci-Fi,468,3.0,831400480
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,352,4.0,1493931975
+1840,He Got Game (1998),Drama,599,2.5,1519178602
+72694,Shrink (2009),Drama,448,2.0,1315003118
+5283,National Lampoon's Van Wilder (2002),Comedy,182,3.0,1055155548
+1938,"Lost Weekend, The (1945)",Drama,474,4.0,1106231062
+277,Miracle on 34th Street (1994),Drama,117,4.0,844163204
+4951,Lord of the Flies (1990),Adventure|Drama|Thriller,474,3.0,1007320783
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,153,3.0,1525552226
+86332,Thor (2011),Action|Adventure|Drama|Fantasy|IMAX,344,4.0,1420497413
+62,Mr. Holland's Opus (1995),Drama,47,3.0,1496205312
+1225,Amadeus (1984),Drama,305,5.0,1463503082
+2353,Enemy of the State (1998),Action|Thriller,414,4.0,961515752
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,15,5.0,1510572653
+3031,Repossessed (1990),Comedy,91,3.5,1112717445
+115122,What We Do in the Shadows (2014),Comedy|Horror,610,4.5,1493848212
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,21,4.5,1403460883
